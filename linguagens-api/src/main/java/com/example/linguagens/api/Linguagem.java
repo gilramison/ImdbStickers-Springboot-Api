@@ -35,6 +35,22 @@ public class Linguagem {
         return id;
     }
 
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+    public void setRanking(int ranking) {
+        this.ranking = ranking;
+    }
+
 
     
 }
