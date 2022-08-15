@@ -22,7 +22,7 @@ Through these endpoints the application can list the movies, add a note and save
 
 ## 🎨 Preview
 
-![imdbstickers-preview-01]()
+![imdbstickers-preview-01](https://github.com/gilramison/ImdbStickers-Springboot-Api/blob/master/mongo.png)
 
 
 
